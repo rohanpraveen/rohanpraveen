@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rohan-praveen" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/rohan-praveen" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/rohan-praveen" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/rohan-praveen" height="30" width="80" /></a>
 <a href="https://leetcode.com/rohanpraveen/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="rohanpraveen" height="30" width="80" /></a>
 
 </p>
