@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my project details are available [here](https://www.crio.do/learn/portfolio/deeppimpale67/)
+- 👨‍💻 All of my project details are available [here](https://www.crio.do/learn/portfolio/rohanpraveen22/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
