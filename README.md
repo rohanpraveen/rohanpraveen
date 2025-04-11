@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, my name is Rohan </h1>
-<h3 align="center">I am actively looking/open for SDE roles. With skills in Java, Python, Spring Boot, REST API and much more, I'm ready to dive into any project with enthusiasm and expertise. I am eager to take on new challenges and make my mark in the tech industry. I am a keen lifelong learner who loves to experiment and gain knowledge about different approaches to new tools/technologies in my free time</h3>
-
-
 
 - 👨‍💻 All of my project details are available [here](https://www.crio.do/learn/portfolio/rohanpraveen22/)
 
